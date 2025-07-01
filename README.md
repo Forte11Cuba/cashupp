@@ -115,15 +115,15 @@ Add HTTP API layer for full mint server functionality with REST endpoints.
 ### Phase 4: Enterprise Features
 Performance optimizations, advanced monitoring, and production deployment features.
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions!
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🔗 Links
+## Links
 
 - [Cashu Protocol](https://cashu.space/)
 - [NUT Specifications](https://github.com/cashubtc/nuts)
