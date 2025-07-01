@@ -1,10 +1,10 @@
 # cashupp - High-Performance C++ Implementation
 
-A production-ready C++ implementation of the Cashu protocol with 100% Nutshell compatibility.
+A C++ implementation of the Cashu protocol with 100% Nutshell compatibility.
 
 ## Project Overview
 
-cashupp is a complete C++ implementation of the Cashu ecash protocol: Nutshell. The project focuses on performance, security, and maintaining perfect compatibility with existing Cashu wallets and mints.
+cashupp is a C++ implementation of the Cashu ecash protocol: Nutshell. The project focuses on performance, security, and maintaining perfect compatibility with existing Cashu wallets and mints.
 
 ## Key Features
 
