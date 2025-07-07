@@ -1,4 +1,4 @@
-# cashupp - High-Performance C++ Implementation
+# Cashu++ - High-Performance C++ Implementation
 
 A C++ implementation of the Cashu protocol with 100% Nutshell compatibility.
 
@@ -23,7 +23,7 @@ cashupp is a C++ implementation of the Cashu ecash protocol: Nutshell. The proje
 ### Directory Structure
 
 ```
-cashu++/
+cashupp/
 ├── include/cashu/          # Public API headers
 │   ├── core/crypto/        # Cryptographic primitives
 │   ├── core/               # Core protocol structures
